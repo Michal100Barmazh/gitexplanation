@@ -1,0 +1,6 @@
+[user]
+	name = riki-porush
+	email = hand1b21@mbjcomp.org.il
+[http]
+	sslCAInfo = C:\\ProgramData\\NetFree\\CA\\netfree-ca-bundle-curl.crt
+	sslbackend = openssl
